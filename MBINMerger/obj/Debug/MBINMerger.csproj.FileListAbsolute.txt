@@ -1,0 +1,8 @@
+F:\Users\Xan\source\repos\MBINMerger\MBINMerger\bin\Debug\MBINMerger.exe.config
+F:\Users\Xan\source\repos\MBINMerger\MBINMerger\bin\Debug\MBINMerger.exe
+F:\Users\Xan\source\repos\MBINMerger\MBINMerger\bin\Debug\MBINMerger.pdb
+F:\Users\Xan\source\repos\MBINMerger\MBINMerger\obj\Debug\MBINMerger.csprojAssemblyReference.cache
+F:\Users\Xan\source\repos\MBINMerger\MBINMerger\obj\Debug\MBINMerger.csproj.CoreCompileInputs.cache
+F:\Users\Xan\source\repos\MBINMerger\MBINMerger\obj\Debug\MBINMerger.exe
+F:\Users\Xan\source\repos\MBINMerger\MBINMerger\obj\Debug\MBINMerger.pdb
+F:\Users\Xan\source\repos\MBINMerger\MBINMerger\obj\Debug\MBINMerger.csproj.CopyComplete

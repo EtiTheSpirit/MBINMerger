@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--File created using MBINCompiler version (2.0.10)-->
+<Data template="TkMaterialData">
+  <Property name="Name" value="DepthOfField" />
+  <Property name="Class" value="Opaque" />
+  <Property name="TransparencyLayerID" value="420" />
+  <Property name="CastShadow" value="False" />
+  <Property name="DisableZTest" value="True" />
+  <Property name="Link" value="" />
+  <Property name="Shader" value="SHADERS/BASIC.SHADER.BIN" />
+  <Property name="Flags" />
+  <Property name="Uniforms" />
+  <Property name="Samplers" />
+</Data>
