@@ -1,7 +1,7 @@
 # MBINMerger
 A tool for No Man's Sky's MBIN format that merges MBIN files.
 
-# CRITICAL NOTE: This program may fail to merge some MBIN files where there's multiple objects with the same identifier somewhere.
+# CRITICAL NOTE: This program may fail to merge some MBIN files where there's multiple objects with the same identifier and same parent.
 I'll work to get this resolved ASAP.
 
 # Usage:
